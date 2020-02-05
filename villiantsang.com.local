@@ -1,0 +1,15 @@
+$TTL 1D
+@       IN SOA  ns.villiantsang.com. root (
+                                        0       ; serial
+                                        1D      ; refresh
+                                        1H      ; retry
+                                        1W      ; expire
+                                        3H )    ; minimum
+@       IN      NS      ns.villiantsang.com.	
+
+11      IN      PTR     v1.villiantsang.com.	
+12      IN      PTR     v2.villiantsang.com.	
+13      IN      PTR     www.villiantsang.com.	
+14      IN      PTR     bbs.villiantsang.com.	
+
+10      IN      PTR     mail.villiantsang.com.
